@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../mcsp-exercise-ajax-tv-show-finder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sorting-Hat"
+	}
+}
