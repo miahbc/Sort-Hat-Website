@@ -1,3 +1,5 @@
+//I hate this code Anthony
+
 const body = document.querySelector("body");
 var coords = document.getElementById("coords");
 var wandDiv = document.getElementById("wandDiv");
